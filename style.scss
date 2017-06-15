@@ -246,6 +246,14 @@ nav {
   border-bottom: 1px solid $lightGray;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
