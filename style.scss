@@ -251,6 +251,11 @@ nav {
   border-bottom: 1px solid $lightGray;
 }
 
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
 th {
     text-align: left;
 }
