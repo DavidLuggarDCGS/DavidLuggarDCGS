@@ -12,7 +12,7 @@
 /**************/
 /* BASE RULES */
 /**************/
-p.inset {border-style: inset;}
+
 
 html {
   font-size: 100%;
@@ -252,6 +252,13 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+}
+
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
 }
 
 th, td {
